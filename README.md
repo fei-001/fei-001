@@ -31,11 +31,11 @@
 </p>
 <h3>🔥 我的文章</h3>
 <p style="font-family: 'Comic Sans MS', cursive;">
-    你看，这里藏着点好东西，不点进去瞧瞧，可能错过了什么精彩哦~
+    这里可装着我的知识哦！
 </p>
 <p>
     <font size="5" face="Comic Sans MS">
-        <a href="https://bytequestor.github.io" target="_blank" style="font-family: 'Comic Sans MS', cursive;">这儿有颜值在线的！不来看看嘛？</a>
+        <a href="https://fei-001.github.io/" target="_blank" style="font-family: 'Comic Sans MS', cursive;">这儿有颜值在线的！不来看看嘛？</a>
     </font>
 </p>
 
