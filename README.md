@@ -76,3 +76,8 @@
 <h1 style="text-align: center;">美好的一天</h1>
 
 <img src="https://github.com/fei-001/picture/blob/main/my001.jpg?raw=true" style="vertical-align:middle"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fei-001/fei-001/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fei-001/fei-001/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fei-001/fei-001/output/github-contribution-grid-snake.svg">
+</picture>
