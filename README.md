@@ -38,9 +38,9 @@
         <a href="https://fei-001.github.io/" target="_blank" style="font-family: 'Comic Sans MS', cursive;">这儿有颜值在线的！不来看看嘛？</a>
     </font>
 </p>
-![8644ebf81a4c510f8dd65c228be6a623d52aa5c2](README.assets/8644ebf81a4c510f8dd65c228be6a623d52aa5c2.jpeg)
 
 
+<td><img alt="Stars" src="https://github.com/fei-001/fei-001/blob/main/README.assets/8644ebf81a4c510f8dd65c228be6a623d52aa5c2.jpeg"/ height=600px wight=1000px></td>
 
 <h3>🎁 项目</h3>
 <table>
@@ -74,8 +74,6 @@
 </p>
 
 <h1 style="text-align: center;">美好的一天</h1>
-
-<img src="https://github.com/fei-001/picture/blob/main/my001.jpg?raw=true" style="vertical-align:middle"/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fei-001/fei-001/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fei-001/fei-001/output/github-contribution-grid-snake.svg">
