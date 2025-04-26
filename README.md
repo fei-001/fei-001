@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate on **Bigcity**
 - 👯 我正在寻找在 **Bigcity** 上合作
 
-- 📝 I regularly write articles on [https://fei-001.github.io/](https://fei-001.github.io/)
+- 📝 I regularly write articles on [https://fei-001.github.io/)
 - 📝 我经常在 [https://fei-001.github.io/]（https://fei-001.github.io/） 上写文章
 
 - 💬 Ask me about **Cloud**
