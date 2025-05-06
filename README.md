@@ -26,8 +26,8 @@
 - 📫 How to reach me **2020703972@qq.com**
 - 📫 如何联系我 **2020703972@qq.com**
 
-- 📄 Know about my experiences [nothing](nothing)
-- 📄 了解我的经历 [https://fei-001.github.io/ReadBook/]（什么都没有）
+- 📄 Know about my experiences https://fei-001.github.io/ReadBook/
+- 📄 了解我的经历 https://fei-001.github.io/ReadBook/
 
 <h3 align="left">Connect with me:</h3>
 与我联系：
